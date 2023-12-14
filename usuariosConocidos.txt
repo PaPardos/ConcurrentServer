@@ -1,0 +1,4 @@
+1 45.231.13.15 1 campo.png
+4 77.32.65.223 1 comida.avi
+21 1.1.3.2 0
+24 44.43.123.13 2 ciudad.exe siete.png
